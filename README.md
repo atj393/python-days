@@ -1,1 +1,1 @@
-# python-course
+# python-days
